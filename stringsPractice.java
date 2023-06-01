@@ -3,7 +3,7 @@ public class Main {
         //dealing with Java strings
         String myString = new String();
         myString = "hilario";
-        char[] myArray = {'h','e','y','w','o','r','l','d'}; // same as String after printing
+        char[] myArray = {'h','e','y','w','o','r','l','d','s'}; // same as String after printing
         String aNewString = new String(myArray);
 
         System.out.println(myString.length()); // using an accessor method on myString to get string length
