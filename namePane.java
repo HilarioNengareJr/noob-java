@@ -1,4 +1,4 @@
-import javax.swing.*;
+import javax.swing.JOptionPane;
 
 class OptionPaneObject{
     JFrame frame;
